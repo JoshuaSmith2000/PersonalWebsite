@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    color: #40514E;
+}
+
+.top-container {
+    background-color: #FFD8A9;
+    padding-top: 20px;
+    position: relative;
+}
+
+.bottom-container {
+    background-color: #FFD8A9;
+    padding-top: 20px;
+}
+
+hr {
+    border: #FFD8A9 dotted 6px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 4%;
+    margin: 100px auto 100px auto;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Shadows Into Light', cursive;
+    color: #E38B29;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: normal;
+    font-family: 'Noto Sans', sans-serif;
+    color: #E38B29;
+}
+
+h3 {
+    font-family: 'Noto Sans', sans-serif;
+    color: #E38B29;
+}
+
+.top-cloud {
+    position: relative;
+    left: 300px;
+    width: 150px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    right: 1000px;
+    width: 150px;
+}
+
+div {
+    background-color: #FDEEDC;
+}
+
+#computer-img {
+    margin: 0 0 0 30px;
+    width: 25%;
+    float: right;
+}
+
+#thinking-img {
+    margin: 0 30px 0 0;
+    width: 25%;
+    float: left;
+}
+
+#mountain-img {
+    margin-bottom: 0;
+    margin-top: 100px;
+    position: relative;
+    top: 4px;
+}
+
+.skill-row {
+    width: 52%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+#row-1 {
+    margin: 0 auto 0 auto;
+}
+
+.links {
+    display: block;
+    text-align: left;
+    font-size: 0.7rem;
+    margin-left: 20px;
+}
+
+#contact {
+    padding: 20px;
+    margin: 0;
+}
+
+#bottom {
+    padding-bottom: 10px;
+    margin: 0;
+    color: #EAF6F6;
+    font-size: 0.8rem;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #E38B29;
+    padding: 10px;
+}
+
+.footer-link:hover {
+    color: #EAF6F6;
+}
+
+#email {
+    margin: 0;
+    padding: 20px;
+}
