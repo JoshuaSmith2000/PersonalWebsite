@@ -11,6 +11,10 @@ body {
     position: relative;
 }
 
+.education-container {
+    padding-top: 50px;
+}
+
 .bottom-container {
     background-color: #FFD8A9;
     padding-top: 20px;
@@ -122,4 +126,26 @@ div {
 #email {
     margin: 0;
     padding: 20px;
+}
+
+.headshot {
+    margin-top: 30px;
+}
+
+.relevant-module {
+    width: 52%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    line-height: 2;
+    padding-bottom: 30px;
+}
+
+.webpage-link {
+    text-decoration: none;
+    color: #E38B29;
+    padding: 10px;
+}
+
+.webpage-link:hover {
+    color: #FFD8A9;
 }
